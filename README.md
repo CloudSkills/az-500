@@ -1,7 +1,7 @@
 # AZ-500 Workshop Agenda
 This is the agenda for the AZ-500 workshop
 
-=== DAY 1 (6 hours) ===
+=== DAY 1 ===
 
 * Manage Azure AD identities - Mike
     * Azure AD users
